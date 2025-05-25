@@ -8,3 +8,4 @@ terraform.tfvars.backup
 # 기타 편의
 *.log
 *.backup
+.terraform/
